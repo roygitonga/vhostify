@@ -1,0 +1,15 @@
+{
+    "dns": {
+      "file": "/etc/hosts"
+    },
+    "apache": {
+      "bin": "/usr/sbin/apache2",
+      "conf": "/etc/apache2/sites-available",
+      "run_dir": "/var/run/apache2"
+    },
+    "paths": {
+      "conf": "/etc/apache2/sites-available",
+      "certs": "/etc/ssl/certs"
+    }
+  }
+  
